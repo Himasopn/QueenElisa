@@ -60,7 +60,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
-  SESSION_ID: 'QUEENELISA;;;==QStBlaztEV4d2NuFUOI5UNBJUZq9VYJdGc2IDSERXWvFVQL5mezskSFhVVjElWThkeGJ1apwd=305663513558',
+  SESSION_ID: 'QUEENELISA;;;==AOLVVSfJ2YDNFbSlmVj5mSslneuZkUJNlaFlTQZ1CTWNWY2MUZCRGTxE2Tjk0STp2QOZkQpwd=305663513558',
   MSG: {
     ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
     ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
